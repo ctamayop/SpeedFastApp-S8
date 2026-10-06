@@ -1,12 +1,12 @@
-# 🚚 SpeedFastApp
+# SpeedFastApp
 
-## 📘 Descripción
+## Descripción
 
 SpeedFastApp es una aplicación desarrollada en Java para gestionar repartidores, pedidos y entregas de la empresa SpeedFast
 
 El sistema permite realizar operaciones CRUD mediante una interfaz gráfica desarrollada con Java Swing y utiliza una base de datos MySQL conectada mediante JDBC
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 ### Repartidores
 - Registrar repartidores
@@ -30,7 +30,7 @@ El sistema permite realizar operaciones CRUD mediante una interfaz gráfica desa
 - Actualizar entregas
 - Eliminar entregas
 
-## 🗂️ Estructura del proyecto
+## Estructura del proyecto
 
 ```text
 src/main/java/cl/speedfast
